@@ -2,6 +2,7 @@
 
 ## References to documents online:
 - [Title page](https://vult-my.sharepoint.com/:w:/g/personal/vilius_minkevicius_mif_stud_vu_lt/EQDu1Haen3xIrXkJ1CgDpF0BVVdb4J_9m_AZzgT3E_H9Xw?e=h76RdA)
+- [First chapter](https://vult-my.sharepoint.com/:w:/r/personal/vilius_minkevicius_mif_stud_vu_lt/_layouts/15/Doc.aspx?sourcedoc=%7BE35056B5-704D-4FB9-9DF5-B442E0A21AFF%7D&file=Ivadas.docx&action=default&mobileredirect=true)
 
 ## Useful info:
 - [Previous MarkDown document, use as a reminder](https://github.com/Tristanas/PSI2-Food-Bee-Inc/blob/master/Dokumentas.md)

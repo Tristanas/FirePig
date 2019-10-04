@@ -1,5 +1,11 @@
 # FirePig
 
+## To do pirmam laborui:
+- **Naudotojų ir veiklų charakteristikos.** Veiklose minėtus naudotojus aprašome: patirties lygis, amžius ir jutimų sutrikimai (jei tokių yra). Aprašyti veiklos dažnį ir trukmę. 
+- **Naudotojo  poreikiai ir panaudojamumo siekiai.** Tai reikalavimai iš naudotojo, kuriais apibrėžiame, ar esamos problemos buvo išspręstos. Jei sistema tenkina šiuos reikalavimus, tai išsprendžia problemas. 
+- **Būsimasis naudojimo scenarijus.** Reikia vieno. Pagr. ir alternatyvūs scenarijai. Aprašyti, kaip ateityje mūsų sistema naudosis naršytojai ir kaip ji sprendžia esamas problemas.
+- **Interfeisą įkvepiančios idėjos.** Kitų naršyklių screenshotai bei kokie nors mygtukai ar kiti grafiniai elementai iš internetinių puslapių. Reikia bent 5 idėjų.
+
 ## References to documents online:
 - [**Most recent version**](https://vult-my.sharepoint.com/:w:/g/personal/vilius_minkevicius_mif_stud_vu_lt/ETe_OBbrI7BOsrtFapE7WVAB6tdEQjk78iBqfVMsAnkqFg?e=fhIFQF)
 - [Title page](https://vult-my.sharepoint.com/:w:/g/personal/vilius_minkevicius_mif_stud_vu_lt/EQDu1Haen3xIrXkJ1CgDpF0BVVdb4J_9m_AZzgT3E_H9Xw?e=h76RdA)

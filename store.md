@@ -14,24 +14,24 @@ Naudojant naršyklę “FirePig” vartotojas galės:
 •	Gauti pasiūlymus dažniau naudojamus nustatymus perkelti į greičiau pasiekiamas vietas.
 
 
-## Naršymo veiklų variantai: (kiekvienam variantui po 1 pasakojimą, nebent skirtingos grupės tą pačią veiklą labai skirtingai atlieka.) 
+### Naršymo veiklų variantai: (kiekvienam variantui po 1 pasakojimą, nebent skirtingos grupės tą pačią veiklą labai skirtingai atlieka.) 
  - Naujienų skaitymas 
  - Orų peržiūrėjimas 
  - Socialinių tinklų naudojimas 
  - Pirmas kartas naujoje svetainėje 
-## Personalizavimo veiklų variantai: 
+### Personalizavimo veiklų variantai: 
  - Pluginų instaliavimas, paieška 
  - Nustatymų keitimas 
  - Skaitomumo gerinimas (akių sutrikimai, tamsu, šviesu etc) - High contrast/Night theme įjungimas (patamsėja)  
  - Naršyklės gražinimas 
-## Naudojimasis tipinėmis  naršyklės funkcijomis: 
+### Naudojimasis tipinėmis  naršyklės funkcijomis: 
  - Istorijos trynimas 
  - Senų skirtukų uždarymas - Persijungi į skirtuką, pažiūri, ar ten aktuali info, ne - išjungi. Kartoji visiems 20 skirtukams. Ilgai užtrunka. Būtų patogu vienu paspaudimu uždaryti visus seniai tikrintus skirtukus. Jei puslapis yra dažnai lankomas, uždaryti dar vienu paspaudimu.  
  - Elektroninių bilietų ir kitų dokumentų atsisiuntimas (Lengva atsisiųsti, sunku surasti kompiuteryje) 
  - Ekrano išsaugojimas  
-## Internetiniai žaidimai:  
+### Internetiniai žaidimai:  
  - Aprašymas, kaip žaidžia tėvai, senutės ir/ar paaugliai. Candy crush etc.  
  - Kas nepatogu senutėms, tėvams (candy crush etc), gal apie MMORPG ir browser žaidimus?  
-## Kelionės planavimas:  
+### Kelionės planavimas:  
  - Viešasis transportas, google maps, lėktuvai etc.  
  - Kas būna nepatogu? 5 paspaudimai, kad prieitum maršrutų tvarkaraštį? Kaip būtų galima integruoti su FirePig?   

@@ -1,1 +1,0 @@
-Pats tu įvadas!

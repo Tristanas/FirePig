@@ -7,6 +7,7 @@ A repository for all parts of the course "Human-Computer interaction".
 - Padaryti savo "New tab" dizainą,
 - Priklausomai nuo to, kokį scenarijų maketuoji, pasidaryti "Settings" ar "Edit" puslapius,
 - Parašyti dokumente (useful info pirma nuoroda), skyrių apie savo maketą.
+- Įdėti į repozitoriją savo maketą, pavadintą tinkamai.
 
 ## Useful info:
 - [Current lab document in progress](https://vult-my.sharepoint.com/:w:/g/personal/vilius_minkevicius_mif_stud_vu_lt/EZgB0_fC3GBBj6RPURLLWekBAOmrdoopVrZjaVI7pk3x4A?e=ZuOqwd)

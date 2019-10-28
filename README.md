@@ -2,6 +2,7 @@
 A repository for all parts of the course "Human-Computer interaction".
 
 ## To do:
+- Bookmark'inkite repozitoriją ir šį readme dokumentą (padės :D),
 - Kiekvienam pasibaigti savo maketus,
 - Padaryti savo "New tab" dizainą,
 - Priklausomai nuo to, kokį scenarijų maketuoji, pasidaryti "Settings" ar "Edit" puslapius,

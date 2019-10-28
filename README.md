@@ -1,4 +1,4 @@
-# About:
+# About firepig2019:
 A repository for all parts of the course "Human-Computer interaction".
 
 ## Useful info:
